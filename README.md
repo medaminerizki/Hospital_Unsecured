@@ -59,3 +59,7 @@ La recherche par nom permet de trouver un patient spécifique. Voici un exemple 
 - **H2 Database** : Base de données en mémoire utilisée pour la gestion des patients
 - **Thymeleaf** : Template engine pour l'affichage HTML
 - **Lombok** : Pour simplifier la création des beans et réduire le code
+
+
+## Auteur
+Mohamed Amine RIZKI
